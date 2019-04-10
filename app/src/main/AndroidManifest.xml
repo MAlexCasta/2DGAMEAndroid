@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
         </activity>
-        <activity android:name=".gamedev2d.CannonTest"
+        <activity android:name=".gamedev2d.Camera2DTest"
             android:screenOrientation="landscape"
             android:configChanges="keyboard|keyboardHidden|orientation">
             <intent-filter>
